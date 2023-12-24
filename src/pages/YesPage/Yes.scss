@@ -6,19 +6,7 @@ body {
 	background-color: #F8C8DC;
 }
 
-/* Position the "No" button absolutely within body */
-#noButton {
-	position: absolute;
-	margin-left: 150px;
-	transition: 0.5s;
-	/* Smooth movement */
-}
 
-#yesButton {
-	position: absolute;
-	margin-right: 150px;
-	/* Smooth movement */
-}
 
 .header_text {
 	font-family: 'Nunito';
@@ -39,18 +27,6 @@ body {
 	margin-top: 20px;
 	margin-bottom: 0px;
 }
-
-
-.gif_container {
-	width: 100%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	img {
-		max-width: 400px;
-	}
-}
-
 .yes__container {
 	width: 100%;
 	display: flex;
