@@ -4,7 +4,9 @@
   box-sizing: border-box;
 }
 body {
+  height: 100vh;
   overflow-x: hidden;
+  overflow-y: scroll;
   display: flex;
   justify-content: center;
   align-items: center;
