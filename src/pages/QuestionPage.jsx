@@ -9,9 +9,9 @@ const QuestionPage = () => {
 
     const [que, setQue] = useState(
 		[
-			{qid: 1, imgSrc: 'https://media.giphy.com/media/zGk5I6VUTBQRrTxTmf/giphy.gif', questionText: 'Do you wanna eat in Çatı?' },
-			{qid: 2, imgSrc: 'https://media.giphy.com/media/Q47i2kDz8w1utetr7i/giphy.gif', questionText: 'Can you do this move for me?' },
-			{qid: 3, imgSrc: 'https://media.giphy.com/media/yl3xCL7IMbMxwscPlm/giphy.gif', questionText: 'Do you want go to club?' },
+			{qid: 1, imgSrc: 'https://media.giphy.com/media/zGk5I6VUTBQRrTxTmf/giphy.gif', questionText: 'Do you want to eat in Çatı?' },
+			{qid: 2, imgSrc: 'https://media.giphy.com/media/yl3xCL7IMbMxwscPlm/giphy.gif', questionText: 'Let\'go gym?' },
+			{qid: 3, imgSrc: 'https://media.giphy.com/media/eltZvfFAW9f9HI1foH/giphy.gif', questionText: 'Do you want go to club?' },
 			{qid: 4, imgSrc: 'https://media.giphy.com/media/hm8GqsZ2RteDRWW7OS/giphy.gif', questionText: 'Can you warm me up?' },
 			{qid: 5, imgSrc: 'https://media.giphy.com/media/G4qeX5sEqA6gBHaFNM/giphy.gif', questionText: 'Am I precious?' },
 			{qid: 6, imgSrc: 'https://media.giphy.com/media/ZCSPaG9pPpSJEBiOUF/giphy.gif', questionText: 'Do you want to go for a walk?' },
