@@ -4,11 +4,10 @@
   box-sizing: border-box;
 }
 body {
-  overflow: hidden;
+  overflow-x: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90vh;
   background-color: #F8C8DC;
   font-family: Arial, Helvetica, sans-serif;
 }
