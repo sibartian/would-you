@@ -15,8 +15,8 @@ const ButtonMovement = props => {
 		// } else {
 		// 	e.style.top = `${y}px`
 		// }
-		e.style.top = Math.floor(Math.random()*90+5)+'%';
-		e.style.left = Math.floor(Math.random()*90+5)+'%';
+		e.style.top = Math.floor(Math.random()*90)+'%';
+		e.style.left = Math.floor(Math.random()*90)+'%';
 	 
 	}
 	return (

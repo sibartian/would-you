@@ -19,7 +19,7 @@ body {
 }
 #noButton {
   position: absolute;
-  margin-left: 150px;
+  left: 60%;
   transition: 0.3s;
 }
 
@@ -111,6 +111,7 @@ a {
   height: 100%;
   padding: 10px;
   margin: 0 auto;
+  position: relative;
 }
 
 

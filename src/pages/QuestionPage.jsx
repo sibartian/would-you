@@ -6,7 +6,7 @@ const QuestionPage = () => {
     const location = useLocation()
     const { imgSrc, questionText } = location.state
 	return (
-		<div class="container">
+		<>
             <div>
                 <h1 class="header_text">{questionText || 'Do you wanna go out with me?'}</h1>
             </div>
@@ -18,7 +18,7 @@ const QuestionPage = () => {
 				<Link  class="btn" id="yesButton"  to="/YesPage">Yes</Link>
 				<ButtonMovement/>
             </div>
-        </div>
+</>        
 	)
 }
 
