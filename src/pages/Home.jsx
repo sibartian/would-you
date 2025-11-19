@@ -11,7 +11,7 @@ const Home = props => {
 			// {path: '/question/4', imgSrc: 'https://media.giphy.com/media/hm8GqsZ2RteDRWW7OS/giphy.gif', questionText: 'Can you warm me up?' },
 			// {path: '/question/5', imgSrc: 'https://media.giphy.com/media/G4qeX5sEqA6gBHaFNM/giphy.gif', questionText: 'Am I precious?' },
 			{path: '/question/6', imgSrc: 'https://media.giphy.com/media/ZCSPaG9pPpSJEBiOUF/giphy.gif', questionText: 'Do you want to go for a walk?' },
-			{path: '/question/7', imgSrc: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB0c2N5aHByN3d3cWV2OWtvcWhqajR4ZzFjcWY1dDlobDlhNG05OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q47i2kDz8w1utetr7i/giphy.webp', questionText: 'Are you a whore?' },
+			//{path: '/question/7', imgSrc: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB0c2N5aHByN3d3cWV2OWtvcWhqajR4ZzFjcWY1dDlobDlhNG05OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q47i2kDz8w1utetr7i/giphy.webp', questionText: 'Are you a whore?' },
 		]
 	);
 	return (
